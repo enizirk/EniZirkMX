@@ -1,0 +1,13 @@
+{
+  "name": "EniZirk – Spanisch Vokabel- & Grammatiktrainer",
+  "short_name": "EniZirk",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EEEFE9",
+  "theme_color": "#2F4858",
+  "lang": "de",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
